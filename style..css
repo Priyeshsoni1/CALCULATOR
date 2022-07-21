@@ -1,0 +1,41 @@
+*{
+    margin:0
+    padding:0
+}
+.container{
+    text-align: center;
+}
+.contain{
+    text-align: center;
+    /* background-color: rgb(198, 205, 211);
+
+    */}
+body{
+    background-image: url("https://images.unsplash.com/photo-1552058456-adc0aabef0b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2ltcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+.button{
+
+    border-radius: 9%;
+    cursor: pointer;
+    border: 2px solid black;
+    padding: 1.5rem;
+    margin: .5rem;
+    background-color: rgb(224, 213, 234);
+    
+}
+h1{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 3.5rem;
+ 
+}
+.cls{
+    text-align: right;
+}
+.input{
+    text-align: center;
+
+  
+   padding-top: .8rem;
+   font-size: 1.5rem;
+   border: 3px solid rgb(173, 56, 56);
+}
